@@ -1,0 +1,17 @@
+.lightYellow{
+    box-shadow: 1px 1px 110px 42px rgba(212,236,0,0.78);
+-webkit-box-shadow: 1px 1px 110px 42px rgba(212,236,0,0.78);
+-moz-box-shadow: 1px 1px 110px 42px rgba(212,236,0,0.78);
+}
+
+.lightGreen{
+    box-shadow: 1px 1px 110px 42px rgba(9,255,0,0.78);
+-webkit-box-shadow: 1px 1px 110px 42px rgba(9,255,0,0.78);
+-moz-box-shadow: 1px 1px 110px 42px rgba(9,255,0,0.78);
+}
+
+.lightRed{
+    box-shadow: 1px 1px 110px 42px rgba(255,0,0,0.78);
+-webkit-box-shadow: 1px 1px 110px 42px rgba(255,0,0,0.78);
+-moz-box-shadow: 1px 1px 110px 42px rgba(255,0,0,0.78);
+}
